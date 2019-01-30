@@ -11,5 +11,4 @@ def meow
 end 
 
 
-maru= Cat.new 
-maru.meow 
+end 
